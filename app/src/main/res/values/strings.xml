@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="search_movies">Search movies/tv shows</string>
+    <string name="year">(%1$s)</string>
+</resources>
